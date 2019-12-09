@@ -1,0 +1,51 @@
+.centerLabel h1{
+    margin-top: 5%;
+    font-size: 50px;
+    color: white;
+}
+
+.initBtn{
+    display: inline-block;
+    cursor: pointer;
+    background-color: #204d74;
+    opacity: 0.9;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 0 #999;
+}
+
+.registerBtn {
+    display: inline-block;
+    padding: 15px 25px;
+    width: 250px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 0 #999;
+}
+
+.registerLabel{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.companyInfo{
+    margin-top: 20px;
+    font-weight: bold;
+    color: #222222;
+    font-size: 25px;
+}
+
+.inputSize{
+    font-size: 18px;
+}
