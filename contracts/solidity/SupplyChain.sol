@@ -1,6 +1,6 @@
 pragma solidity ^0.4.4;
 
-contract supplyChain{
+contract SupplyChain{
     //企业 厂商 银行
     enum CompanyType{Enterprise,Manufacturer,Bank}
     struct Company{
