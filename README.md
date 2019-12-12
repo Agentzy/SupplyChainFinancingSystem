@@ -54,9 +54,9 @@
 
 ​						│    └── transfer.html																 -----------单据转让界面
 
-├── contract																											----------智能合约代码
+├── contract																											----------智能合约代码及部署结果
 
-​		│  └── SupplyChain.sol										
+​											
 
 ├── server																												-----------后端代码
 
