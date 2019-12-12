@@ -70,5 +70,5 @@
 
 ## 测试视频地址
 
-https://v.youku.com/v_show/id_XNDQ2Mjg1NjEyOA==.html?spm=a2h0j.11185381.listitem_page1.5~A		
+https://v.youku.com/v_show/id_XNDQ2NzAxODk1Ng==.html?spm=a2h3j.8428770.3416059.1	
 
